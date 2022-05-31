@@ -1,4 +1,4 @@
-* {
+*  {
     font-family: 'Montserrat', sans-serif;
     padding: 0;
     margin: 0;
@@ -6,12 +6,12 @@
     text-decoration: none;
 }
 
-body{
+body {
     background-color: #44C7FF;
    
 }
 
-button{
+button {
     height: 52px;
     width: 137px;
     left: 0px;
@@ -23,12 +23,12 @@ button{
     border: none;
 }
 
-button:hover{
+button:hover {
     background: #b1483b;
    
 }
 
-header .container{
+header .container {
     display: flex;
     justify-content: space-between;
     background-color: #44C7FF;
@@ -36,19 +36,19 @@ header .container{
     align-items: center;
 }
 
-header h3{
+header h3 {
     color: white;
     font-size: 24px;
     padding-right: 72px;
 }
 
-header a{
+header a {
     font-size: 14px;
     color: white;
     padding: 21px;
 }
 
-header .login{
+header .login {
     display: flex;
     justify-content: space-between;
     padding-right: 240px;
@@ -57,7 +57,7 @@ header .login{
     padding-left: 79px;
 }
 
-#learn .container{
+#learn .container {
     margin-top: 184px;
     margin-left: 197px;
     height: 600px;
@@ -67,7 +67,7 @@ header .login{
     align-items: center;
 }
 
-#learn h5{
+#learn h5 {
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
@@ -77,7 +77,7 @@ header .login{
    
 }
 
-#learn h1{
+#learn h1 {
     padding-top: 35px;
     height: 160px;
     width: 578px;
@@ -91,7 +91,7 @@ header .login{
     color: white;
 }
 
-#learn p{
+#learn p {
     padding-top: 39px;
     height: 60px;
     width: 440px;
@@ -104,7 +104,7 @@ header .login{
     color:white
 }
 
-.more{
+.more {
     margin-top: 50px;
     background-color: #44C7FF;
     color:#FF6551;
@@ -112,11 +112,11 @@ header .login{
     border: solid 2px;
 }
 
-.more:hover{
+.more:hover {
     background-color: #44C7FF;
 }
 
-.rectangle{
+.rectangle {
     position: absolute;
     height: 548.149169921875px;
     width: 548.149169921875px;
@@ -126,7 +126,7 @@ header .login{
     
 }
 
-.mujer{
+.mujer {
     position: absolute;
     width: 548.15px;
     height: 548.15px;
@@ -135,7 +135,7 @@ header .login{
 
 }
 
-.singles{
+.singles {
     position: absolute;
     width: 154.47px;
     height: 77.91px;
@@ -144,7 +144,7 @@ header .login{
 
 }
 
-.donut{
+.donut {
     position: absolute;
     width: 154px;
     height: 154px;
@@ -153,7 +153,7 @@ header .login{
 }
 
 
-#product .container{
+#product .container {
     width: 100vw;
     padding-left: 197px;
     padding-right: 237px;
@@ -163,7 +163,7 @@ header .login{
     align-items: center;
 }
 
-#product .carta{
+#product .carta {
     position: relative;
     display: flex;
     flex-direction: column;
@@ -176,7 +176,7 @@ header .login{
     box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
 }
 
-#product .circle{
+#product .circle {
     height: 72px;
     width: 72px;
     left: 40px;
@@ -186,7 +186,7 @@ header .login{
     align-items: center;
 }
 
-#product .icon{
+#product .icon {
     position: absolute;
     height: 27.1428571939468384px;
     width: 32px;
@@ -195,7 +195,7 @@ header .login{
     top: 60px
 }
 
-#product h3{
+#product h3 {
     font-size: 24px;
     font-weight: 700;
     line-height: 32px;
@@ -203,12 +203,12 @@ header .login{
     text-align: left;
 }
 
-#product .line{
+#product .line {
     font-size: 30px;
     color: #FF6551;
 }
 
-#product p{
+#product p {
     font-size: 14px;
     font-weight: 400;
     line-height: 20px;
@@ -217,7 +217,7 @@ header .login{
     color: #737373;
 }
 
-#courses .container{
+#courses .container {
     width: 100vw;
     padding-right: 60px;
     background-color: white;
@@ -227,14 +227,14 @@ header .login{
     align-items: center;
  }
 
- #courses .analytics-girl{
+ #courses .analytics-girl {
     width: 600.94px;
     height: 440.61px;
     padding-left: 150px;
  }
  
 
- #courses h2{
+ #courses h2 {
     padding-top: 35px;
     font-size: 40px;
     font-weight: 700;
@@ -243,7 +243,7 @@ header .login{
     text-align: left;
  }
 
- #courses .line{
+ #courses .line {
     background-color: #FF6551;
     height: 7px;
     width: 94px;
@@ -254,7 +254,7 @@ header .login{
 
  }
 
-#courses p{
+#courses p {
     padding-top: 35px;
     padding-bottom: 35px;
     font-size: 14px;
@@ -265,7 +265,7 @@ header .login{
     color: #737373;
 }
 
-#courses a{
+#courses a {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -274,12 +274,12 @@ header .login{
     color: #FF6551;
 }
 
-#courses .rightarrow{
+#courses .rightarrow {
     height: 10px;
     width: 10px;
 }
 
-#number .container{
+#number .container {
     width: 1440px;
     height: 264px;
     background: #FFFFFF;
@@ -290,7 +290,7 @@ header .login{
     padding-top: 50px;
 }
 
-#number h1{
+#number h1 {
     font-size: 58px;
     font-weight: 700;
     line-height: 80px;
@@ -299,7 +299,7 @@ header .login{
     color: #FF6551;
 }
 
-#number h5{
+#number h5 {
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
@@ -308,12 +308,12 @@ header .login{
     color: #252B42;
 }
 
-#action{
+#action {
     background: #26335D;
     width: 100vw;
 }
 
-#action .container{
+#action .container {
     width: 100vw;
     padding-bottom: 160px;
     display: flex;
@@ -323,7 +323,7 @@ header .login{
     background: #26335D;
 }
 
-#action h6{
+#action h6 {
     padding-top: 160px;
     text-align: center;
     font-size: 14px;
@@ -333,7 +333,7 @@ header .login{
     color: #FFFFFF;
 }
 
-#action h2{
+#action h2 {
     padding-top: 10px;
     text-align: center;
     font-size: 40px;
@@ -343,7 +343,7 @@ header .login{
     color: #FFFFFF;
 }
 
-#action p{
+#action p {
     padding-top: 10px;
     padding-bottom: 80px;
     font-size: 14px;
@@ -354,19 +354,19 @@ header .login{
     color: #FFFFFF;
 }
 
-.cubes{
+.cubes {
     position: absolute;
     height: 300px;
     width: 348px;
 }
 
-.pencils{
+.pencils {
     position: absolute;
     height: 300px;
     width: 348px;
 }
 
-#action .square{
+#action .square {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -376,7 +376,7 @@ header .login{
     height: 622px;
 }
 
-.square .pencils{
+.square .pencils {
     height: 300px;
     width: 348px;
     background-image: url(/img/pencils-bg.png);
@@ -384,14 +384,14 @@ header .login{
 
 }
 
-.square .cubes{
+.square .cubes {
     height: 300px;
     width: 348px;
     background-image: url(/img/cubes-bg.png);
     background-size: cover;
 }
 
-.square .sale{
+.square .sale {
     margin-top: 20px ;
     margin-left: 30px;
     color: white;
@@ -404,7 +404,7 @@ header .login{
     background: #E74040;
 }
 
-.square .icons{
+.square .icons {
     background-color: transparent;
     display: flex;
     flex-direction: row;
@@ -413,7 +413,7 @@ header .login{
     padding-left: 80px;
 }
 
-.square .circle{
+.square .circle {
     margin-top: 70px;
     margin-left: 20px ;
     display: flex;
@@ -425,34 +425,34 @@ header .login{
     border-radius: 44.7857px;
 }
 
-.eye{
+.eye {
     height: 19px;
     width: 19px;
     position: absolute;
     right: 99px;
 }
 
-.car{
+.car {
     height: 19px;
     width: 19px;
     position: absolute;
     right: 160px;
 }
 
-.heart{
+.heart {
     height: 19px;
     width: 19px;
     position: absolute;
     right: 219px;
 }
 
-.square .text{
+.square .text {
     padding-left: 25px;
     z-index: 1;
     padding-top: 330px;
 }
 
-.square .img{
+.square .img {
     position: absolute;
     margin-left: 250px;
     font-size: 12px;
@@ -466,12 +466,12 @@ header .login{
     align-items: center;
 }
 
-.square .img_star{
+.square .img_star {
     height: 14.5px;
     width: 15px;
 }
 
-.square .text a{
+.square .text a {
     font-size: 14px;
     font-weight: 700;
     line-height: 24px;
@@ -480,7 +480,7 @@ header .login{
     color: #FF6551;
 }
 
-.square .text h5{
+.square .text h5 {
     padding-top: 15px;
     font-size: 16px;
     font-weight: 700;
@@ -490,7 +490,7 @@ header .login{
     color: #252B42;
 }
 
-.text p{
+.text p {
     padding-bottom:10px!important;
     font-size: 14px;
     line-height: 20px;
@@ -499,13 +499,13 @@ header .login{
     color: #737373!important;
 }
 
-.download img{
+.download img {
     height: 15px;
     width: 15px;
     
 }
 
-.text a{
+.text a {
     font-size: 14px;
     font-weight: 700;
     line-height: 24px;
@@ -514,7 +514,7 @@ header .login{
     color: #737373 !important;
 }
 
-.prices{
+.prices {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -522,7 +522,7 @@ header .login{
     width: 108px;
 }
 
-.prices h4{
+.prices h4 {
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
@@ -533,7 +533,7 @@ header .login{
     padding-left: 5px;
 }
 
-.prices h5{
+.prices h5 {
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
@@ -542,7 +542,7 @@ header .login{
     color: #BDBDBD !important;
 }
 
-.text .learnmore{
+.text .learnmore {
     margin-top: 25px;
     display: flex;
     flex-direction: row;
@@ -555,7 +555,7 @@ header .login{
     border-radius: 37px;
 }
 
-.text .learnmore a{
+.text .learnmore a {
     font-size: 14px;
     font-weight: 700;
     line-height: 24px;
@@ -565,17 +565,17 @@ header .login{
 
 }
 
-.text .learnmore .rightarrow{
+.text .learnmore .rightarrow {
     height: 10px;
     width: 20px;
 }
 
-#popular{
+#popular {
     background-color: white;
     width: 100vw;
 }
 
-#popular h6{
+#popular h6 {
     padding-top: 160px;
     text-align: center;
     font-size: 14px;
@@ -586,7 +586,7 @@ header .login{
 ;
 }
 
-#popular h2{
+#popular h2 {
     padding-top: 10px;
     text-align: center;
     font-size: 40px;
@@ -597,7 +597,7 @@ header .login{
 
 }
 
-#popular p{
+#popular p {
     padding-top: 10px;
     padding-bottom: 80px;
     font-size: 14px;
@@ -608,14 +608,14 @@ header .login{
     color: #737373;
 }
 
-#popular .container{
+#popular .container {
     display: flex;
     justify-content: center;
     gap: 200px;
     padding-bottom: 200px;
 }
 
-#popular .testimonies{
+#popular .testimonies {
     padding-top: 131px;
     display: flex;
     flex-direction: column;
@@ -623,12 +623,12 @@ header .login{
     background: #FFFFFF;
 }
 
-#popular .woman1 , .woman2{
+#popular .woman1 , .woman2 {
     height: 128px;
     width: 128px;
 }
 
-#popular p{ 
+#popular p { 
     padding-top: 30px;
     padding-bottom: 16px;
     font-size: 14px;
@@ -640,7 +640,7 @@ header .login{
 
 
 }
-#popular .stars{
+#popular .stars {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -650,7 +650,7 @@ header .login{
     height: 22.01px;
 }
 
-#popular .stars img{
+#popular .stars img {
     height: 18.34711456298828px;
     width: 18.344575881958008px;
     left: 1.833984375px;
@@ -658,7 +658,7 @@ header .login{
     border-radius: 0px;
 }
 
-#popular .testimonies h5{
+#popular .testimonies h5 {
     padding-bottom: 0px;
     padding-top: 16px;
     font-size: 16px;
@@ -669,7 +669,7 @@ header .login{
     color: #252B42;
  }
 
- #popular .testimonies h6{
+ #popular .testimonies h6 {
     padding-top: 5px;
     font-size: 14px;
     font-weight: 700;
@@ -679,12 +679,12 @@ header .login{
     color: #737373;
  }
 
- #team{
+ #team {
      background-color: white;
      width: 100vw;
  }
 
- #team h4{
+ #team h4 {
     padding-left: 198px;
     padding-top: 100px;
     text-align: left;
@@ -696,7 +696,7 @@ header .login{
 ;
 }
 
-#team h2{
+#team h2 {
     padding-left: 198px;
     padding-top: 10px;
     text-align: left;
@@ -708,7 +708,7 @@ header .login{
 
 }
 
-#team p{
+#team p {
     padding-left: 198px;
     padding-top: 10px;
     padding-bottom: 80px;
@@ -721,7 +721,7 @@ header .login{
 }   
 
 
-#team .container{
+#team .container {
     padding-left: 198px;
     padding-right: 198px;
     padding-bottom: 200px;
@@ -729,7 +729,7 @@ header .login{
     justify-content: space-between;
 }
 
-#team .people{
+#team .people {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -739,15 +739,16 @@ header .login{
     background: #FFFFFF;
     box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
     border-radius: 20px;
+    overflow: hidden;
 
 }
 
-#team img{
+#team img {
     height: 231px;
     width: 238px;
 }
 
-#team h5{
+#team h5 {
     padding-top: 30px;
     font-size: 16px;
     font-weight: 700;
@@ -757,7 +758,7 @@ header .login{
     color: #252B42;
 }
 
-#team h6{
+#team h6 {
     padding: 0px;
     padding-top: 10px;
     font-size: 12px;
@@ -768,7 +769,7 @@ header .login{
     color: #737373;
 }
 
-#team .socialmedia{
+#team .socialmedia {
     padding-top: 11px;
     height: 26px;
     width: 112px;
@@ -777,17 +778,17 @@ header .login{
     gap:22px;
 }
 
-#team .socialmedia img{
+#team .socialmedia img {
     height: 18px;
     width: 22px;
 }
 
-#suscribe{
+#suscribe {
     background-color: white;
     width: 100vw;
 }
 
-#suscribe h6{
+#suscribe h6 {
     padding-top: 40px;
     text-align: center;
     font-size: 14px;
@@ -798,7 +799,7 @@ header .login{
 ;
 }
 
-#suscribe h2{
+#suscribe h2 {
     padding-top: 10px;
     text-align: center;
     font-size: 40px;
@@ -809,7 +810,7 @@ header .login{
 
 }
 
-#suscribe p{
+#suscribe p {
     padding-top: 10px;
     padding-bottom: 80px;
     font-size: 14px;
@@ -820,11 +821,11 @@ header .login{
     color: #737373;
 }   
 
-#suscribe form{
+#suscribe form {
     text-align: center;
     padding-bottom: 131px;
 }
-#suscribe input{
+#suscribe input {
     height: 58px;
     width: 688px;
     border-radius: 5px;
@@ -834,7 +835,7 @@ header .login{
     letter-spacing: 0.2px;
 }
 
-#suscribe form button{
+#suscribe form button {
     text-align: center;
     background: #FF6551;
     border: 1px solid #E6E6E6;
@@ -846,7 +847,7 @@ header .login{
     text-align: center;
 }
 
-footer .container{
+footer .container {
     width: 100vw;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -859,7 +860,7 @@ footer .container{
     text-align: left;
 }
 
-.footer{
+.footer {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -869,7 +870,7 @@ footer .container{
     
 }
 
-.footer h5{
+.footer h5 {
     color: white;
     font-size: 16px;
     font-weight: 700;
@@ -878,7 +879,7 @@ footer .container{
     text-align: left;
 }
 
-.footer a{
+.footer a {
     color: white;
     font-size: 14px;
     font-weight: 700;
@@ -887,7 +888,7 @@ footer .container{
     text-align: left;
 }
 
-.final{
+.final {
     width: 100vw;
     padding-left: 150px;
     height: 74px;
@@ -897,7 +898,7 @@ footer .container{
     background: #FAFAFA;
 }
 
-.final h6{
+.final h6 {
     font-size: 14px;
     font-weight: 700;
     line-height: 24px;
@@ -906,19 +907,19 @@ footer .container{
     color: #737373;
 }
 
-.final .social{
+.final .social {
     padding-right: 150px;
     display: flex;
     flex-direction: row;
     gap: 22px;
 }
 
-.final img{
+.final img {
     height: 23px;
     width: 23px;
 }
 
-.footer .icon{
+.footer .icon {
     width: 14px;
     height: 20px;
 }
